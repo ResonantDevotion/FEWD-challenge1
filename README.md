@@ -34,9 +34,13 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 ## Usage
 ```md
-![alt Screenshot of finished frontpage 1)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13at 11.23.40 AM.png)
-![alt Screenshot of finished frontpage 2)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.32 AM.png)
-![alt Screenshot of finished frontpage 3)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.40 AM.png)
+![Screenshot of finished frontpage 1)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13at 11.23.40 AM.png)
+```
+```md
+![Screenshot of finished frontpage 2)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.32 AM.png)
+```
+```md
+![Screenshot of finished frontpage 3)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.40 AM.png)
 ```
 ## Credits
 
