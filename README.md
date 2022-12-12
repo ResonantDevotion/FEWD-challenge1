@@ -33,11 +33,10 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![Screenshot of finished frontpage 1)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13at 11.23.40 AM.png)
+![Screenshot of finished frontpage 2)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.32 AM.png)
+![Screenshot of finished frontpage 3)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.40 AM.png)
 
 ## Credits
 
