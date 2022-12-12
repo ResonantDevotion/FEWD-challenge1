@@ -42,6 +42,9 @@ Your website must meet accessibility standards. You can achieve this completing 
 ```md
 ![Screenshot of finished frontpage 3)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.40 AM.png)
 ```
+```md
+![mock up view)(https://courses.bootcampspot.com/courses/3031/files/2370917/preview)
+```
 ## Credits
 
 Skills Bootcamp FEWD
