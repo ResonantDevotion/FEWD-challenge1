@@ -1,7 +1,7 @@
 # FEWD-challenge1
 Front-End Web Development Bootcamp course - challenge1
 
-##Description
+## Description
 
 This project was developed to provide us with an on-the-job ticket task, which challenges us to find the flaws in the code and work to improve it for a certain goal. The problem it was solving was to make it more accessible, improve the SEO and consolidate the CSS by following the scout rule.
 
@@ -34,9 +34,9 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 ## Usage
 
-![Screenshot of finished frontpage 1)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13at 11.23.40 AM.png)
-![Screenshot of finished frontpage 2)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.32 AM.png)
-![Screenshot of finished frontpage 3)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.40 AM.png)
+![alt Screenshot of finished frontpage 1)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13at 11.23.40 AM.png)
+![alt Screenshot of finished frontpage 2)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.32 AM.png)
+![alt Screenshot of finished frontpage 3)(FEWD-challenge1/challenge/assets/images/Screenshot 2022-12-13 at 11.28.40 AM.png)
 
 ## Credits
 
